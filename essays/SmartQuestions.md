@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions"
+title: "The Art of Asking For Help"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-15
 published: true
