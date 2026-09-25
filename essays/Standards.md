@@ -18,3 +18,6 @@ The hardest part for me was setting ESLint up for the first time. There were sev
 I also struggle a bit with patching specific ESLint errors. Sometimes I understand what ESLint is telling me, but I am not sure what I should change to fix it. This can make fixing errors take longer than I would expect. However, I think this is also part of why coding standards can help with learning a language. If I keep running into the same kinds of errors, I start to understand what the language expects and why certain ways of writing code are preferred.
 
 Overall, I think coding standards are useful even if they can be annoying at times. They make code more consistent and can catch problems that I might otherwise miss. I do not think every ESLint error feels important, but having to deal with them has made me pay more attention to how I write my code.
+
+
+AI Assistance (ChatGPT 4o): Organizing ideas, outlining
